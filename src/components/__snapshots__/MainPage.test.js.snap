@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main Page Component expect to render Main Page component 1`] = `
+<div
+  className="tc"
+>
+  <Header />
+  <SearchBox />
+  <Scroll>
+    <ErrorBoundary>
+      <CardList
+        robots={Array []}
+      />
+    </ErrorBoundary>
+  </Scroll>
+</div>
+`;
